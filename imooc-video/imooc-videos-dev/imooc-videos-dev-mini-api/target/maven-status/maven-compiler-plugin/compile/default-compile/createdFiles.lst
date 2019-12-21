@@ -1,0 +1,11 @@
+com\imooc\Swagger2.class
+com\imooc\ZKCuratorClient.class
+com\imooc\controller\VideoController.class
+com\imooc\controller\RegistController.class
+com\imooc\Application.class
+com\imooc\controller\BasicController.class
+com\imooc\controller\BmgController.class
+com\imooc\WebMvcConfig.class
+com\imooc\MiniInterceptor.class
+com\imooc\controller\UserController.class
+com\imooc\ZKCuratorClient$1.class

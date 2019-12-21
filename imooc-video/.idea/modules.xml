@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/imooc-video.iml" filepath="$PROJECT_DIR$/.idea/imooc-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-video-admin/imooc-video-admin.iml" filepath="$PROJECT_DIR$/imooc-video-admin/imooc-video-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-video-admin/imooc-video-admin-common/imooc-video-admin-common.iml" filepath="$PROJECT_DIR$/imooc-video-admin/imooc-video-admin-common/imooc-video-admin-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-video-admin/imooc-video-admin-mapper/imooc-video-admin-mapper.iml" filepath="$PROJECT_DIR$/imooc-video-admin/imooc-video-admin-mapper/imooc-video-admin-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-video-admin/imooc-video-admin-mng/imooc-video-admin-mng.iml" filepath="$PROJECT_DIR$/imooc-video-admin/imooc-video-admin-mng/imooc-video-admin-mng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-video-admin/imooc-video-admin-pojo/imooc-video-admin-pojo.iml" filepath="$PROJECT_DIR$/imooc-video-admin/imooc-video-admin-pojo/imooc-video-admin-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-video-admin/imooc-video-admin-service/imooc-video-admin-service.iml" filepath="$PROJECT_DIR$/imooc-video-admin/imooc-video-admin-service/imooc-video-admin-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-videos-dev/imooc-videos-dev.iml" filepath="$PROJECT_DIR$/imooc-videos-dev/imooc-videos-dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-videos-dev/imooc-videos-dev-common/imooc-videos-dev-common.iml" filepath="$PROJECT_DIR$/imooc-videos-dev/imooc-videos-dev-common/imooc-videos-dev-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-videos-dev/imooc-videos-dev-mapper/imooc-videos-dev-mapper.iml" filepath="$PROJECT_DIR$/imooc-videos-dev/imooc-videos-dev-mapper/imooc-videos-dev-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-videos-dev/imooc-videos-dev-mini-api/imooc-videos-dev-mini-api.iml" filepath="$PROJECT_DIR$/imooc-videos-dev/imooc-videos-dev-mini-api/imooc-videos-dev-mini-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-videos-dev/imooc-videos-dev-pojo/imooc-videos-dev-pojo.iml" filepath="$PROJECT_DIR$/imooc-videos-dev/imooc-videos-dev-pojo/imooc-videos-dev-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-videos-dev/imooc-videos-dev-service/imooc-videos-dev-service.iml" filepath="$PROJECT_DIR$/imooc-videos-dev/imooc-videos-dev-service/imooc-videos-dev-service.iml" />
+    </modules>
+  </component>
+</project>
